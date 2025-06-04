@@ -15,7 +15,7 @@ Herramientas: NetBeans, VS, Git, GitHub.
 
 En aprendizaje: Spring Boot, API REST, desarrollo web
 
-##GitHub Stats
+## GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cris97ize&theme=elegant&card_width=504&card_height=201)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/cris97ize/github-readme-stats)
 
